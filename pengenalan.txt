@@ -1,0 +1,3 @@
+Html = Tulang
+JS (Java Script) = 
+Css = Kulit
